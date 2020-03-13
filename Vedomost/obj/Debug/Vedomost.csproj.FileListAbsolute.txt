@@ -1,0 +1,9 @@
+D:\Programs\Vedomost\Vedomost\bin\Debug\Vedomost.exe.config
+D:\Programs\Vedomost\Vedomost\bin\Debug\Vedomost.exe
+D:\Programs\Vedomost\Vedomost\bin\Debug\Vedomost.pdb
+D:\Programs\Vedomost\Vedomost\obj\Debug\Vedomost.csprojAssemblyReference.cache
+D:\Programs\Vedomost\Vedomost\obj\Debug\Vedomost.Vedomost.resources
+D:\Programs\Vedomost\Vedomost\obj\Debug\Vedomost.Properties.Resources.resources
+D:\Programs\Vedomost\Vedomost\obj\Debug\Vedomost.csproj.GenerateResource.cache
+D:\Programs\Vedomost\Vedomost\obj\Debug\Vedomost.exe
+D:\Programs\Vedomost\Vedomost\obj\Debug\Vedomost.pdb
